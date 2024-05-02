@@ -1,0 +1,28 @@
+body{
+    background-color: blueviolet;
+    display: flex;
+    justify-content: center;
+}
+#container{
+    width: 50%;
+    height: 680px;
+    background-color: red;
+}
+#image{
+    width: 100%;
+    height: 500px;
+    border: 5px solid orangered;
+    box-sizing: border-box;
+}
+#button{
+    width: 200px;
+    height: 50px;
+    float: left;
+    margin-left: 240px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    background-color:skyblue;
+    color:brown;
+    
+}
